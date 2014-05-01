@@ -100,8 +100,7 @@ namespace xnaplatformer
                 isAttacking = false;
                 velocity.X = 0;
             }
-
-            else
+            else if (input.KeyReleased(Keys.Down))
             {
                 moveAnimation = tempAnimation;
             }

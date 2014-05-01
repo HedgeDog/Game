@@ -54,7 +54,7 @@ namespace xnaplatformer
         }
         public FloatRect Rect
         {
-            get { return new FloatRect(position.X, position.Y, moveAnimation.FrameWidth(), moveAnimation.FrameHeight()); }
+            get { return new FloatRect(position.X + animationOffset.X, position.Y + AnimationOffset.Y, moveAnimation.FrameWidth(), moveAnimation.FrameHeight()); }
         }
 
         public Vector2 PrevPostion

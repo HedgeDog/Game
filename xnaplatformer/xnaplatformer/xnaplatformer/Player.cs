@@ -29,6 +29,7 @@ namespace xnaplatformer
             currentAttackAnimations = new AttackAnimation[4];
             isAttacking = false;
             jumpSpeed = 5;
+            currentWeapon = "ShortSword";
             tempAnimation = moveAnimation;
         }
        
@@ -118,9 +119,10 @@ namespace xnaplatformer
             }
             position.X += velocity.X;
             position.Y += velocity.Y;
-            moveAnimation.Position = position;
+            
             moveAnimation.Update(gameTime);
             animationOffset = moveAnimation.Offset;
+            moveAnimation.Position = position + moveAnimation.Offset;
         }
 
         public void equipWeapon()

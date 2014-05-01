@@ -27,9 +27,9 @@ namespace xnaplatformer
 
             frameDimensions = new List<Vector2>();
 
-            frameDimensions.Add(new Vector2(24, 32));
-            frameDimensions.Add(new Vector2(29, 32));
-            frameDimensions.Add(new Vector2(24, 32));
+            frameDimensions.Add(new Vector2(28, 32));
+            frameDimensions.Add(new Vector2(32, 32));
+            frameDimensions.Add(new Vector2(28, 32));
 
             sourceRect = new Rectangle(SourceX(), 0, (int)frameDimensions[(int)currentFrame.X].X, (int)frameDimensions[(int)currentFrame.X].Y);
         }

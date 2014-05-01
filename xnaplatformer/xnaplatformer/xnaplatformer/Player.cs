@@ -30,6 +30,7 @@ namespace xnaplatformer
             isAttacking = false;
             jumpSpeed = 5;
             currentWeapon = "ShortSword";
+
             tempAnimation = moveAnimation;
         }
        
@@ -90,6 +91,21 @@ namespace xnaplatformer
                 //velocity.Y = 0;
             }
 
+            if (input.KeyDown(Keys.Down))
+            {
+                moveAnimation = currentAttackAnimations[2];
+                moveAnimation.LoadContent(content);
+                moveAnimation.IsActive = true;
+                moveAnimation.Effect = tempAnimation.Effect;
+                isAttacking = false;
+                velocity.X = 0;
+            }
+
+            else
+            {
+                moveAnimation = tempAnimation;
+            }
+
             if (input.KeyPressed(Keys.Right))
             {
                 if (!isAttacking)
@@ -101,8 +117,10 @@ namespace xnaplatformer
                     moveAnimation.Effect = SpriteEffects.None;
                 }
             }
+
             
-            if (input.KeyPressed(Keys.Left))
+            
+            else if (input.KeyPressed(Keys.Left))
             {
                 if (!isAttacking)
                 {
@@ -113,6 +131,8 @@ namespace xnaplatformer
                     moveAnimation.Effect = SpriteEffects.FlipHorizontally;
                 }
             }
+
+            
             if (input.KeyPressed(Keys.P))
             {
                 equipWeapon();
@@ -132,6 +152,9 @@ namespace xnaplatformer
             currentAttackAnimations[0] = (AttackAnimation)Activator.CreateInstance(newClass);
             newClass = Type.GetType("xnaplatformer." + currentWeapon + "Left");
             currentAttackAnimations[1] = (AttackAnimation)Activator.CreateInstance(newClass);
+            newClass = Type.GetType("xnaplatformer." + currentWeapon + "Block");
+            currentAttackAnimations[2] = (AttackAnimation)Activator.CreateInstance(newClass);
+
         }
 
         public override void OnCollision(Entity e)

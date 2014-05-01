@@ -100,6 +100,15 @@
       <Output>C:\Users\Tom\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\ShortSwordRight.xnb</Output>
       <Time>2014-05-01T15:30:44.1006378-07:00</Time>
     </Item>
+    <Item>
+      <Source>ShortSwordBlock.png</Source>
+      <Name>ShortSwordBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tom\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\ShortSwordBlock.xnb</Output>
+      <Time>2014-05-01T16:18:14.1201475-07:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>

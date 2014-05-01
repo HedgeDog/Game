@@ -86,6 +86,7 @@
     <Compile Include="Layer.cs" />
     <Compile Include="Layers.cs" />
     <Compile Include="Collision.cs" />
+    <Compile Include="ShortSwordBlock.cs" />
     <Compile Include="Map.cs" />
     <Compile Include="MenuManager.cs" />
     <Compile Include="Player.cs" />

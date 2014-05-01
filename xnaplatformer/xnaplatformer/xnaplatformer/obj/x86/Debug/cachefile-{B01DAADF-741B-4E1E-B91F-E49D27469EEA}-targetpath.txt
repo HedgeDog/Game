@@ -9,4 +9,5 @@ Content\TileSets\tileset1.xnb
 Content\BobRun.xnb
 Content\TileSets\TileSheet1.xnb
 Content\ShortSwordRight.xnb
+Content\ShortSwordBlock.xnb
 Content\ShortSwordRight.png

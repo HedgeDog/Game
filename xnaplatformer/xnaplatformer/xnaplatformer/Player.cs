@@ -91,7 +91,7 @@ namespace xnaplatformer
                 //velocity.Y = 0;
             }
 
-            if (input.KeyDown(Keys.Down))
+            if (input.KeyDown(Keys.Down) && !IsAttacking)
             {
                 moveAnimation = currentAttackAnimations[2];
                 moveAnimation.LoadContent(content);

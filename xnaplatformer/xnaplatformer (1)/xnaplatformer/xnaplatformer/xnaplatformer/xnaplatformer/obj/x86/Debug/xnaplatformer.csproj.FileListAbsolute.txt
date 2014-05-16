@@ -1,0 +1,160 @@
+F:\Work\Programs\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\xnaplatformer.exe
+F:\Work\Programs\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\xnaplatformer.pdb
+F:\Work\Programs\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Work\Programs\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Work\Programs\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\xnaplatformer.exe
+F:\Work\Programs\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\xnaplatformer.pdb
+F:\Work\Programs\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Font1.xnb
+F:\Work\Programs\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\fade.xnb
+F:\Work\Programs\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Splash.cfg
+F:\Work\Programs\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Splash\image1.xnb
+F:\Work\Programs\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Splash\image2.xnb
+F:\Work\Programs\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Splash\image3.xnb
+F:\Work\Programs\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Menu.cfg
+F:\Work\Programs\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\null.xnb
+F:\Work\Programs\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Hero1.xnb
+F:\Work\Programs\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Player.cfg
+E:\C# Projects\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Font1.xnb
+E:\C# Projects\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\fade.xnb
+E:\C# Projects\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\null.xnb
+E:\C# Projects\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Splash\image2.xnb
+E:\C# Projects\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Splash\image3.xnb
+E:\C# Projects\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Hero1.xnb
+E:\C# Projects\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Splash\image1.xnb
+E:\C# Projects\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\xnaplatformer.exe
+E:\C# Projects\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\xnaplatformer.pdb
+E:\C# Projects\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\xnaplatformer.csprojResolveAssemblyReference.cache
+E:\C# Projects\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\C# Projects\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\xnaplatformer.exe
+E:\C# Projects\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\xnaplatformer.pdb
+E:\C# Projects\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Player.cme
+E:\C# Projects\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Menu.cme
+E:\C# Projects\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Splash.cme
+E:\C# Projects\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\Map1.cme
+E:\C# Projects\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\TileSets\tileset1.xnb
+C:\Users\Nick\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\Map1.cme
+C:\Users\Nick\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Player.cme
+C:\Users\Nick\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Menu.cme
+C:\Users\Nick\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Splash.cme
+C:\Users\Nick\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Font1.xnb
+C:\Users\Nick\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\fade.xnb
+C:\Users\Nick\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\null.xnb
+C:\Users\Nick\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Splash\image2.xnb
+C:\Users\Nick\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Splash\image3.xnb
+C:\Users\Nick\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Hero1.xnb
+C:\Users\Nick\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Splash\image1.xnb
+C:\Users\Nick\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\TileSets\tileset1.xnb
+C:\Users\Nick\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\xnaplatformer.exe
+C:\Users\Nick\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\xnaplatformer.pdb
+C:\Users\Nick\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\xnaplatformer.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Nick\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\xnaplatformer.exe
+C:\Users\Nick\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\xnaplatformer.pdb
+C:\Users\Nick\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\BobRun.xnb
+C:\Users\Nick\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\TileSets\TileSheet1.xnb
+C:\Users\Nick\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\FirstMap.txt
+C:\Users\Nick\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Enemy1.txt
+C:\Users\Nick\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\ShortSwordRight.xnb
+C:\Users\Nick\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\ShortSwordRight.png
+C:\Users\Tom\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\FirstMap.txt
+C:\Users\Tom\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\Map1.cme
+C:\Users\Tom\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Player.cme
+C:\Users\Tom\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Menu.cme
+C:\Users\Tom\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Splash.cme
+C:\Users\Tom\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Enemy1.txt
+C:\Users\Tom\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Font1.xnb
+C:\Users\Tom\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\fade.xnb
+C:\Users\Tom\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\null.xnb
+C:\Users\Tom\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Splash\image2.xnb
+C:\Users\Tom\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Splash\image3.xnb
+C:\Users\Tom\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Hero1.xnb
+C:\Users\Tom\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Splash\image1.xnb
+C:\Users\Tom\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\TileSets\tileset1.xnb
+C:\Users\Tom\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\BobRun.xnb
+C:\Users\Tom\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\TileSets\TileSheet1.xnb
+C:\Users\Tom\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\ShortSwordRight.xnb
+C:\Users\Tom\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\ShortSwordRight.png
+C:\Users\Tom\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\xnaplatformer.exe
+C:\Users\Tom\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\xnaplatformer.pdb
+C:\Users\Tom\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\xnaplatformer.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tom\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\xnaplatformer.exe
+C:\Users\Tom\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\xnaplatformer.pdb
+C:\Users\Tom\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\ShortSwordBlock.xnb
+C:\Users\Nick\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\FirstMap.txt
+C:\Users\Nick\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\Map1.cme
+C:\Users\Nick\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Player.cme
+C:\Users\Nick\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Menu.cme
+C:\Users\Nick\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Splash.cme
+C:\Users\Nick\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Enemy1.txt
+C:\Users\Nick\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Font1.xnb
+C:\Users\Nick\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\fade.xnb
+C:\Users\Nick\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\null.xnb
+C:\Users\Nick\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Splash\image2.xnb
+C:\Users\Nick\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Splash\image3.xnb
+C:\Users\Nick\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Hero1.xnb
+C:\Users\Nick\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Splash\image1.xnb
+C:\Users\Nick\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\TileSets\tileset1.xnb
+C:\Users\Nick\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\BobRun.xnb
+C:\Users\Nick\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\TileSets\TileSheet1.xnb
+C:\Users\Nick\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\ShortSwordRight.xnb
+C:\Users\Nick\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\ShortSwordBlock.xnb
+C:\Users\Nick\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\ShortSwordRight.png
+C:\Users\Nick\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\xnaplatformer.exe
+C:\Users\Nick\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\xnaplatformer.pdb
+C:\Users\Nick\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\xnaplatformer.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Nick\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\xnaplatformer.exe
+C:\Users\Nick\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\xnaplatformer.pdb
+C:\Users\s-nwalker\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\FirstMap.txt
+C:\Users\s-nwalker\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\Map1.cme
+C:\Users\s-nwalker\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Player.cme
+C:\Users\s-nwalker\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Menu.cme
+C:\Users\s-nwalker\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Splash.cme
+C:\Users\s-nwalker\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Enemy1.txt
+C:\Users\s-nwalker\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Font1.xnb
+C:\Users\s-nwalker\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\fade.xnb
+C:\Users\s-nwalker\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\null.xnb
+C:\Users\s-nwalker\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Splash\image2.xnb
+C:\Users\s-nwalker\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Splash\image3.xnb
+C:\Users\s-nwalker\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Hero1.xnb
+C:\Users\s-nwalker\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Splash\image1.xnb
+C:\Users\s-nwalker\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\TileSets\tileset1.xnb
+C:\Users\s-nwalker\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\BobRun.xnb
+C:\Users\s-nwalker\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\TileSets\TileSheet1.xnb
+C:\Users\s-nwalker\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\ShortSwordRight.xnb
+C:\Users\s-nwalker\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\ShortSwordBlock.xnb
+C:\Users\s-nwalker\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\ShortSwordRight.png
+C:\Users\s-nwalker\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\xnaplatformer.exe
+C:\Users\s-nwalker\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\xnaplatformer.pdb
+C:\Users\s-nwalker\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\s-nwalker\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\s-nwalker\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\xnaplatformer.exe
+C:\Users\s-nwalker\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\xnaplatformer.pdb
+C:\Users\Nick\Downloads\xnaplatformer (1)\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\FirstMap.txt
+C:\Users\Nick\Downloads\xnaplatformer (1)\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Maps\Map1.cme
+C:\Users\Nick\Downloads\xnaplatformer (1)\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Player.cme
+C:\Users\Nick\Downloads\xnaplatformer (1)\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Menu.cme
+C:\Users\Nick\Downloads\xnaplatformer (1)\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Splash.cme
+C:\Users\Nick\Downloads\xnaplatformer (1)\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Load\Enemy1.txt
+C:\Users\Nick\Downloads\xnaplatformer (1)\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Font1.xnb
+C:\Users\Nick\Downloads\xnaplatformer (1)\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\fade.xnb
+C:\Users\Nick\Downloads\xnaplatformer (1)\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\null.xnb
+C:\Users\Nick\Downloads\xnaplatformer (1)\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Splash\image2.xnb
+C:\Users\Nick\Downloads\xnaplatformer (1)\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Splash\image3.xnb
+C:\Users\Nick\Downloads\xnaplatformer (1)\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Hero1.xnb
+C:\Users\Nick\Downloads\xnaplatformer (1)\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\Splash\image1.xnb
+C:\Users\Nick\Downloads\xnaplatformer (1)\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\TileSets\tileset1.xnb
+C:\Users\Nick\Downloads\xnaplatformer (1)\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\BobRun.xnb
+C:\Users\Nick\Downloads\xnaplatformer (1)\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\TileSets\TileSheet1.xnb
+C:\Users\Nick\Downloads\xnaplatformer (1)\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\ShortSwordRight.xnb
+C:\Users\Nick\Downloads\xnaplatformer (1)\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\ShortSwordBlock.xnb
+C:\Users\Nick\Downloads\xnaplatformer (1)\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\ShortSwordRight.png
+C:\Users\Nick\Downloads\xnaplatformer (1)\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\xnaplatformer.exe
+C:\Users\Nick\Downloads\xnaplatformer (1)\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\xnaplatformer.pdb
+C:\Users\Nick\Downloads\xnaplatformer (1)\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\xnaplatformer.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Downloads\xnaplatformer (1)\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Nick\Downloads\xnaplatformer (1)\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\xnaplatformer.exe
+C:\Users\Nick\Downloads\xnaplatformer (1)\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\obj\x86\Debug\xnaplatformer.pdb
+C:\Users\Nick\Downloads\xnaplatformer (1)\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\ShortSwordUp.cs
+C:\Users\Nick\Downloads\xnaplatformer (1)\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformer\bin\x86\Debug\Content\ShortSwordUp.xnb

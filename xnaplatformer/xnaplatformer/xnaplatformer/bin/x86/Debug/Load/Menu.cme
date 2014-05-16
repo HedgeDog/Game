@@ -10,3 +10,6 @@ Load=[Item][LinkType][LinkID]
 [CREDITS][Screen][SplashScreen]
 
 EndLoad=[Title]
+
+Load=[Image][Position][Frames][MoveSpeed][Range]
+[Hero1][150 100][3 4][80][50]

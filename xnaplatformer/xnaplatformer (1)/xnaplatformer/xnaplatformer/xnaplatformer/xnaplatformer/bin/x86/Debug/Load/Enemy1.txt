@@ -1,5 +1,0 @@
-﻿Load=[Level1]
-
-Load=[Image][Position][Frames][MoveSpeed][Range][Health]
-[Hero1][150 100][3 4][80][50][30]
-

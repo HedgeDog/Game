@@ -1,7 +1,0 @@
-F:\Work\Programs\xnaplatformer\xnaplatformer\xnaplatformerContent\obj\x86\Debug\ResolveAssemblyReference.cache
-E:\C# Projects\xnaplatformer\xnaplatformer\xnaplatformerContent\obj\x86\Debug\xnaplatformerContent.contentprojResolveAssemblyReference.cache
-C:\Users\Nick\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformerContent\obj\x86\Debug\xnaplatformerContent.contentprojResolveAssemblyReference.cache
-C:\Users\Tom\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformerContent\obj\x86\Debug\xnaplatformerContent.contentprojResolveAssemblyReference.cache
-C:\Users\Nick\Documents\GitHub\Game\xnaplatformer\xnaplatformer\xnaplatformerContent\obj\x86\Debug\xnaplatformerContent.contentprojResolveAssemblyReference.cache
-C:\Users\s-nwalker\Downloads\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformerContent\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Nick\Downloads\xnaplatformer (1)\xnaplatformer\xnaplatformer\xnaplatformer\xnaplatformerContent\obj\x86\Debug\xnaplatformerContent.contentprojResolveAssemblyReference.cache
